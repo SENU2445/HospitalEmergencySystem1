@@ -1,0 +1,7 @@
+Implemented Patient Records using Binary Search Tree (BST).
+
+Features:
+- Insert patient
+- Search patient by Patient ID
+- Delete patient
+- In-order traversal
